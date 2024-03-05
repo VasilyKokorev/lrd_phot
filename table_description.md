@@ -25,7 +25,7 @@
 | ``lbol``| Dust corrected AGN bolometric luminosity, erg/s|
 | ``lbol_err``| Uncertainty on the dust corrected AGN bolometric luminosity, erg/s|
 | ``muv``| Observed UV (rest, 1450 AA) absolute magnitude, ABmag|
-| ``muv``| Uncertainty on the observed UV (rest, 1450 AA) absolute magnitude, ABmag|
+| ``muv_err``| Uncertainty on the observed UV (rest, 1450 AA) absolute magnitude, ABmag|
 | ``r_eff_16_pix``| 16th percentile on the effective radius, pixels|
 | ``r_eff_50_pix``| 50th percentile (median) on the effective radius, pixels|
 | ``r_eff_84_pix``| 84th percentile on the effective radius, pixels|
