@@ -20,12 +20,12 @@
 | ``z_phot``| Best-fit photoz from EAZY|
 | ``z_phot16``| 16th percentile of pdf(z) (1-sigma)|
 | ``z_phot84``| 84th percentile of pdf(z) (1-sigma)|
-| ``av``| Extinction in the V-band |
-| ``av_err``| Uncertainty on the extinction in the V-band|
+| ``av``| Extinction in the V-band, ABmag |
+| ``av_err``| Uncertainty on the extinction in the V-band, ABmag|
 | ``lbol``| Dust corrected AGN bolometric luminosity, erg/s|
 | ``lbol_err``| Uncertainty on the dust corrected AGN bolometric luminosity, erg/s|
-| ``muv``| Observed UV (rest, 1450 AA) absolute magnitude|
-| ``muv``| Uncertainty on the observed UV (rest, 1450 AA) absolute magnitude|
+| ``muv``| Observed UV (rest, 1450 AA) absolute magnitude, ABmag|
+| ``muv``| Uncertainty on the observed UV (rest, 1450 AA) absolute magnitude, ABmag|
 | ``r_eff_16_pix``| 16th percentile on the effective radius, pixels|
 | ``r_eff_50_pix``| 50th percentile (median) on the effective radius, pixels|
 | ``r_eff_84_pix``| 84th percentile on the effective radius, pixels|
