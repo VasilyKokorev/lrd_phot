@@ -2,7 +2,7 @@
 
 - Flux densities and uncertainties were corrected to total and are given in units of ``microJansky`` (AB zeropoint = 23.9).
 - Pixel scale of original images is 0.04"/pixel 
-- Photometry **is not** corrected for Galactic extinctions
+- Photometry **is not** corrected for Galactic extinction
 - Missing data (e.g., filter coverage doesn't overlap) indicated with flux/error ``-99``.
 
 ## Table Columns
