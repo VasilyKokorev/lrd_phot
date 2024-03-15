@@ -5,3 +5,5 @@ paper "A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST
 [Download Full Sample Here](lrd_table_v1.1.fits)
 
 [Table Description](table_description.md)
+
+[![DOI](https://zenodo.org/badge/737962829.svg)](https://zenodo.org/doi/10.5281/zenodo.10820723)
